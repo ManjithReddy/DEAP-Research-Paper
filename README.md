@@ -1,4 +1,4 @@
-# DEAP-Research-Paper
+# DEP-Research-Paper
 Analysis of Student Performance Using Educational Data
 Analysis of Student Performance Using Educational Data
 Description
